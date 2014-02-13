@@ -1,0 +1,175 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.1
+#@/tick	140
+#@/user_id	cslc-pc
+ai 	唉	c=1 d=0.794534 t=140
+ai 	愛	c=1 d=0.790571 t=140
+ai da 	捱打	c=0 d=0.0955997 t=140
+ai da de ren shi wo 	捱打的人是我	c=1 d=0.960789 t=140
+ba 	吧	c=1 d=0.987825 t=140
+ba jiu wen qing tian 	把酒問青天	c=1 d=0.856415 t=140
+ba wo 	把我	c=0 d=0.0927743 t=140
+ba wo 	把握	c=0 d=0.0923116 t=140
+ba wo xia huai 	把握嚇壞	c=1 d=0.927743 t=140
+ba wo xia huai le 	把我嚇壞了	c=1 d=0.932394 t=140
+bei jing 	北京	c=1 d=0.740818 t=140
+ben ben 	笨笨	c=1 d=0.88692 t=140
+ben ren 	本人	c=0 d=0.0722527 t=140
+bi wo 	比我	c=1 d=0.980199 t=140
+bi xu 	必須	c=0 d=0.0722527 t=140
+bi xu ben ren 	必須本人	c=1 d=0.726149 t=140
+bu 	補	c=0 d=0.0755784 t=140
+bu ban 	補辦	c=1 d=0.744532 t=140
+bu cuo 	不錯	c=1 d=0.794534 t=140
+bu guan xin 	不關心	c=1 d=0.860708 t=140
+bu ka 	補卡	c=1 d=0.786628 t=140
+bu kai xin 	不開心	c=1 d=0.99005 t=140
+bu ke yong 	不可用	c=1 d=0.763379 t=140
+bu neng 	不能	c=1 d=0.895834 t=140
+bu shi 	不是	c=1 d=0.831104 t=140
+bu zhi dao 	不知道	c=1 d=0.856415 t=140
+ce shi 	測試	c=1 d=0.771052 t=140
+ce shi yi xia 	測試一下	c=1 d=0.847894 t=140
+cha bu duo le ba 	差不多了吧	c=1 d=0.882497 t=140
+che tui 	撤退	c=0 d=0.1 t=133
+chu fa 	出發	c=1 d=1 t=139
+chui 	捶	c=0 d=0.0932394 t=140
+chui wo hao ji ci 	捶我好幾次	c=1 d=0.937067 t=140
+da yun he 	大運河	c=1 d=1 t=140
+dai zhe 	帶着	c=1 d=0.774916 t=140
+dang ran 	當然	c=0 d=0.0946485 t=140
+de 	的	c=2 d=1.52972 t=140
+de ren 	的人	c=0 d=0.0955997 t=140
+duo can 	多慘	c=1 d=0.923116 t=140
+duo yuan 	多遠	c=0 d=0.088692 t=140
+en 	嗯	c=1 d=0.852144 t=140
+en 	恩	c=2 d=1.85252 t=140
+fa zhan 	發展	c=0 d=0.0826959 t=140
+fa zhan you xian ze ren gong si 	發展有限責任公司	c=1 d=0.831104 t=140
+fu jin 	附近	c=1 d=0.97531 t=140
+gai tian 	改天	c=1 d=0.701173 t=140
+gan jue 	感覺	c=1 d=0.786628 t=140
+gao ding 	搞定	c=1 d=0.697676 t=140
+ge zhi 	咯吱	c=0 d=0.0895834 t=140
+ge zhi wo le 	咯吱我了	c=1 d=0.900325 t=140
+gei ni 	給你	c=1 d=0.715338 t=140
+gei ta 	給她	c=1 d=0.802519 t=140
+guo le 	過了	c=0 d=0.0882497 t=140
+guo le he 	過了河	c=2 d=1.78176 t=140
+hai 	還	c=0 d=0.0980199 t=140
+hai shi 	還是	c=1 d=0.790571 t=140
+hai wang dong 	還往東	c=1 d=0.985112 t=140
+hao ba 	好吧	c=1 d=1 t=140
+hao chi 	好吃	c=0 d=0.0715338 t=140
+hao ji ci 	好幾次	c=0 d=0.0932394 t=140
+he 	河	c=0 d=0.0882497 t=140
+he he 	呵呵	c=1 d=0.806541 t=140
+hen yuan 	很遠	c=1 d=1 t=137
+hou ban ye 	後半夜	c=1 d=0.985112 t=140
+hui qu 	回去	c=0 d=0.0763379 t=140
+huo zhe 	或者	c=1 d=0.704688 t=140
+ji shu zhong xin 	技術中心	c=1 d=0.83527 t=140
+jiang qi 	獎期	c=1 d=0.882497 t=140
+jiao jian 	焦健	c=1 d=0.946485 t=140
+jiu ke 	九棵	c=0 d=0.0726149 t=140
+jiu ke shu 	九棵樹	c=2 d=1.54443 t=140
+jiu shi 	就是	c=1 d=1 t=131
+jue de 	覺得	c=1 d=0.97531 t=140
+ka 	卡	c=0 d=0.0755784 t=140
+kan hao 	看好	c=0 d=0.0798516 t=140
+kan hao ni 	看好你	c=1 d=0.802519 t=140
+ke ji 	科技	c=0 d=0.0822835 t=140
+ke yi 	可以	c=1 d=0.937067 t=140
+le 	了	c=7 d=5.46908 t=140
+li 	麗	c=0 d=0.0860708 t=140
+mai le ge 	買了個	c=1 d=0.806541 t=140
+me 	麼	c=1 d=0.847894 t=140
+mei 	沒	c=0 d=0.088692 t=140
+mei duo yuan 	沒多遠	c=1 d=0.891366 t=140
+mei you 	沒有	c=2 d=1.35785 t=140
+mei you yin xiang 	沒有印象	c=0 d=0.0946485 t=140
+ming yue ji shi you 	明月幾時有	c=1 d=0.852144 t=140
+na dian 	拿點	c=0 d=0.0715338 t=140
+na dian hao chi de 	拿點好吃的	c=1 d=0.718924 t=140
+na ge 	那個	c=1 d=0.955997 t=140
+ni 	你	c=1 d=1.24655 t=140
+ni dang ran mei you yin xiang 	你當然沒有印象	c=1 d=0.951229 t=140
+ni zuo meng 	你做夢	c=1 d=0.923116 t=140
+pang bian 	旁邊	c=2 d=1.88362 t=140
+po 	破	c=0 d=0.0873716 t=140
+po xiao qu 	破小區	c=1 d=0.878095 t=140
+qiao zhuang 	喬莊	c=1 d=0.970446 t=140
+qing ni 	請你	c=1 d=0.71177 t=140
+qiong ren 	窮人	c=1 d=0.904837 t=140
+qu 	去	c=1 d=0.782705 t=140
+qu le 	去了	c=0 d=0.0687289 t=140
+qu le ying ye ting 	去了營業廳	c=1 d=0.690734 t=140
+ri zi 	日子	c=1 d=0.913931 t=140
+sen lin gong yuan 	森林公園	c=1 d=1 t=132
+shen bin 	沈濱	c=2 d=1.70093 t=140
+shi 	是	c=1 d=0.995012 t=140
+shi wo 	是我	c=0 d=0.0955997 t=140
+shou ji 	手機	c=1 d=0.810584 t=140
+shou ji ka 	手機卡	c=1 d=0.755784 t=140
+shu 	樹	c=0 d=0.0726149 t=140
+shu ru fa 	輸入法	c=1 d=0.778801 t=140
+ta men 	他們	c=1 d=0.951229 t=140
+ti cai 	題材	c=0 d=0.0822835 t=140
+tong qiang 	佟強	c=3 d=2.50709 t=140
+tong zhou 	通州	c=1 d=1 t=136
+tu hao 	土豪	c=1 d=0.822835 t=140
+wan shang 	晚上	c=1 d=0.891366 t=140
+wang dong 	往東	c=0 d=0.0980199 t=140
+wen ti 	問題	c=1 d=0.869358 t=140
+wen wen 	問問	c=1 d=0.941765 t=140
+wo 	我	c=1 d=1.07786 t=140
+wo le 	我了	c=0 d=0.0895834 t=140
+wo men 	我們	c=0 d=0.0891366 t=140
+wo xian 	我先	c=0 d=0.1 t=133
+wo xian che tui 	我先撤退	c=1 d=1 t=134
+xi fu 	媳婦	c=1 d=0.778801 t=140
+xia huai 	嚇壞	c=0 d=0.185086 t=140
+xiao qu 	小區	c=0 d=0.182971 t=140
+xiao qu bu cuo 	小區不錯	c=1 d=0.960789 t=140
+ya 	呀	c=1 d=0.826959 t=140
+yan fa yi bu 	研發一部	c=1 d=0.843665 t=140
+yan fa zhong xin 	研發中心	c=1 d=0.839457 t=140
+ye you 	也有	c=1 d=0.818731 t=140
+yi di 	異地	c=1 d=0.823842 t=140
+yi di bu ka 	異地補卡	c=1 d=0.759572 t=140
+yi dong 	移動	c=1 d=0.752014 t=140
+yi hui 	一會	c=0 d=0.0763379 t=140
+yi hui hui qu 	一會回去	c=1 d=0.767206 t=140
+yi jing you 	已經有	c=1 d=0.83527 t=140
+yi jiu jiu ling 	一九九〇	c=1 d=0.860708 t=140
+yi tang 	一趟	c=1 d=0.771052 t=140
+yi tao 	一套	c=1 d=0.843665 t=140
+yi xia 	一下	c=1 d=0.774916 t=140
+ying ye ting 	營業廳	c=1 d=0.805853 t=140
+you 	有	c=1 d=0.918512 t=140
+you wo 	優渥	c=1 d=0.722527 t=140
+you xian ze ren gong si 	有限責任公司	c=0 d=0.0826959 t=140
+yu qiao bei li 	玉橋北里	c=1 d=0.873716 t=140
+zai 	在	c=1 d=0.965605 t=140
+zai bu rang wo 	再不讓我	c=1 d=0.909373 t=140
+zai li mian 	在裏面	c=1 d=0.904837 t=140
+zhang xiao 	張曉	c=0 d=0.0860708 t=140
+zhang xiao li 	張曉麗	c=2 d=1.73438 t=140
+zhe ge 	這個	c=1 d=0.865022 t=140
+zhe xie 	這些	c=1 d=0.900325 t=140
+zhen de 	真的	c=1 d=0.946485 t=140
+zhi dao 	知道	c=0 d=0.0891366 t=140
+zhi dao wo men 	知道我們	c=1 d=0.895834 t=140
+zhi shi 	只是	c=1 d=0.970446 t=140
+zhi shi bi jiao yu men 	只是比較鬱悶	c=1 d=0.913931 t=140
+zhong 	中	c=0 d=0.0822835 t=140
+zhong guo yi dong 	中國移動	c=1 d=0.733447 t=140
+zhong ti cai ke ji 	中題材科技	c=1 d=0.826959 t=140
+zhou mo 	週末	c=1 d=0.70822 t=140
+zuo meng 	做夢	c=0 d=0.0918512 t=140
+zuo tian 	昨天	c=1 d=0.798516 t=140
+zuo wan shang 	昨晚上	c=1 d=0.918512 t=140
+zuo you 	左右	c=0 d=0.0806541 t=140
+zuo you ba 	左右吧	c=1 d=0.810584 t=140

@@ -1,0 +1,19 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.29.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Feb 12 09:16:25 2014"
+  rime_version: 1.1
+patch:
+  "style/color_scheme": cool_breeze
+  "style/font_face": "XHei Mono"
+  "style/font_point": 11
+  "style/horizontal": true
+  "app_options/gvim.exe":
+    ascii_mode: true
+  "app_options/tcmatch64.exe":
+    ascii_mode: true
+  "app_options/totalcmd64.exe":
+    ascii_mode: true
+  "app_options/findandrunrobot.exe":
+    ascii_mode: true    

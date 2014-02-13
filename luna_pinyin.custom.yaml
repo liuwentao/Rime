@@ -1,0 +1,5 @@
+patch:
+  translator/preedit_format: {}
+  # 实际上是清空了原有的 preedit_format 定义
+  translator/dictionary: luna_pinyin.extended
+    
