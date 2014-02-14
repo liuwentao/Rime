@@ -1,0 +1,104 @@
+custom_phrase:
+  db_class: stabledb
+  dictionary: ""
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+  user_dict: custom_phrase
+customization: 902379129
+engine:
+  filters:
+    - simplifier
+    - uniquifier
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - "table_translator@custom_phrase"
+    - script_translator
+key_binder:
+  import_preset: default
+punctuator:
+  full_shape:
+    "/": "、"
+  half_shape:
+    "/": "、"
+  import_preset: default
+recognizer:
+  import_preset: default
+  patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+schema:
+  author:
+    - "double pinyin layout by 鶴"
+    - "Rime schema by 佛振 <chen.sst@gmail.com>"
+    - "Custom schema by 刘浏 <liu@wentao.org>"
+  description: |
+    小鹤双拼,自定义版本。    
+    
+  name: "小鹤双拼"
+  schema_id: flypy
+  version: 0.16.custom.902379129
+speller:
+  algebra:
+    - "erase/^xx$/"
+    - "derive/^([jqxy])u$/$1v/"
+    - "derive/^([aoe])([ioun])$/$1$1$2/"
+    - "xform/^([aoe])(ng)?$/$1$1$2/"
+    - "xform/iu$/Q/"
+    - "xform/(.)ei$/$1W/"
+    - "xform/uan$/R/"
+    - "xform/[uv]e$/T/"
+    - "xform/un$/Y/"
+    - "xform/^sh/U/"
+    - "xform/^ch/I/"
+    - "xform/^zh/V/"
+    - "xform/uo$/O/"
+    - "xform/ie$/P/"
+    - "xform/i?ong$/S/"
+    - "xform/ing$|uai$/K/"
+    - "xform/(.)ai$/$1D/"
+    - "xform/(.)en$/$1F/"
+    - "xform/(.)eng$/$1G/"
+    - "xform/[iu]ang$/L/"
+    - "xform/(.)ang$/$1H/"
+    - "xform/ian$/M/"
+    - "xform/(.)an$/$1J/"
+    - "xform/(.)ou$/$1Z/"
+    - "xform/[iu]a$/X/"
+    - "xform/iao$/N/"
+    - "xform/(.)ao$/$1C/"
+    - "xform/ui$/V/"
+    - "xform/in$/B/"
+    - "xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/"
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "西文"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - name: simplification
+    states: ["漢字", "汉字"]
+translator:
+  dictionary: luna_pinyin.extended
+  preedit_format:
+    {}
+  prism: flypy
